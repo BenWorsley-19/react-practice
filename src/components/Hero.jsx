@@ -16,7 +16,7 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className='text-[#915eff]'>Ben</span> </h1>
           {/* TODO: Split this into sections. 1st bit up to I'd say, next bit my description, then the but summing */}
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            If I were to try and sum myself up in a sentence, I'd say: <br className='sm:block hidden'/> I'm a software professional who loves to build successful applications while growing and mentoring people. But summing anyone up in a sentence is hard so I built this website to show more about me...  
+            I'm a software professional who loves to build successful applications while growing and mentoring people.  
           </p>
         </div>
       </div>
